@@ -1,5 +1,24 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Thufir
+
+Clone of Google search engine frontend made with Next.js
+
+Made with: Next.js, Tailwind CSS, Google API 
+
+Enter a term or an URL into input search bar, press enter to initialize the search or press any of the two buttons bellow the search bar. 
+The app will take you to the search results page, with listed search results. 
+The search results consist of: direct link, page title and a snippet shortened to first two lines. 
+Integrated pagination on the bottom of the search results page. 
+Fully responsive.
+Click on the "Thufir" logo to return to the landing page. 
+
+Search results and number of daily searches are limited due to limitations of the free Google API key and a context key used in this app. 
+
+Name "Thufir" stems from a fictional character Thufir Hawat, created by science fiction writter Frank Herbert in his book "Dune".
+Thufir Hawat is a "Mentat", a specially trained advisor with seemingly computer-like computation abilities and almost limitless knowledge on myriad of topics and subjects. 
+
+
 ## Getting Started
 
 First, run the development server:
